@@ -5,8 +5,10 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
+
 class Crudtest extends Model
 {
     use HasFactory;
+    protected $table = 'crudtest';
     protected $fillable=['name','age'];
 }
