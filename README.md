@@ -5,5 +5,5 @@
     <ul type="Circle">
         <li>25/9/2025 - basically Environment + Project + DB.</li>
         <li>26/9/2025 - Started function implementation.</li>
-        <li>27/9/2025 - completed the simpel UI with CRUD operation task.</li>
+        <li>27/9/2025 - completed the simple UI with CRUD operation task.</li>
     </ul>
