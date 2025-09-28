@@ -2,6 +2,7 @@
 
 
 ## Daily Progress
+--
     <ul type="Circle">
         <li>25/9/2025 - basically Environment + Project + DB.</li>
         <li>26/9/2025 - Started function implementation.</li>
